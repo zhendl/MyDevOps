@@ -3,3 +3,6 @@
 ################################################################################
 
 /ConsoleForAzDevOps/.vs/ConsoleForAzDevOps/v15/Server/sqlite3
+/ConsoleForAzDevOps/ConsoleForAzDevOps/obj
+/ConsoleForAzDevOps/ConsoleForAzDevOps/bin/Debug/netcoreapp2.1
+/ConsoleForAzDevOps/.vs/ConsoleForAzDevOps/v15/.suo
